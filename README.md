@@ -128,13 +128,3 @@ fuck-that-report/
 ├── README.md
 └── LICENSE
 ```
-
-## 开源许可
-
-采用[MIT License](LICENSE)，允许使用、复制、修改和分发；分发时需保留版权声明和许可文本。
-
-Codex本身、实验数据、题目和报告模板的许可由各自提供方决定。
-
-## 参考
-
-- [Codex官方skill说明](https://developers.openai.com/codex/skills/)：安装目录、显式调用与变更检测。
