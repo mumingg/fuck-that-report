@@ -1,0 +1,7 @@
+interface:
+  display_name: "实验代码与报告"
+  short_description: "从实验题目解析到代码验证并原地完成实验报告文档的完整工作流"
+  default_prompt: "Use $lab-experiment-report to read the assignment, complete and verify the experiment, then fill the original report document in place."
+
+policy:
+  allow_implicit_invocation: false
